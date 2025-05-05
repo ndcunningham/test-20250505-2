@@ -1,0 +1,8 @@
+{
+  "name": "@nx21-rc1/demo",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "demo"
+  }
+}
